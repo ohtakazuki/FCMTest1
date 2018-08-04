@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "746906820153",
+    "firebase_url": "https://fcmtest1-ad354.firebaseio.com",
+    "project_id": "fcmtest1-ad354",
+    "storage_bucket": "fcmtest1-ad354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746906820153:android:6c1946034195df47",
+        "android_client_info": {
+          "package_name": "jp.techacademy.taro.kirameki.fcmtest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746906820153-512a0kqne6v3hq0f8lumgcquge7b3al3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbGq0vQkYqyp8K4uJSWk48I04cRqbia78"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
